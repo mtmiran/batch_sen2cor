@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Esse script em python não se trata da correção atmosférica em si. Tratá-se apenas de uma automação que fiz pensando em facilitar o uso do sen2cor para correção em multiplas imagens Sentinel-2.
+Esse script em python não se trata da correção atmosférica em si. Trata-se apenas de uma automação que fiz pensando em facilitar o uso do sen2cor para correção em multiplas imagens Sentinel-2.
 
 Nesse repositório encontra-se o script '"batch_sentinel2.py"' e o executável do mesmo ".exe". Fiz esse executável para quem não possui o python instalado e/ou não tem familiridade no terminal.
 
