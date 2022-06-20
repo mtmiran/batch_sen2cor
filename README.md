@@ -6,7 +6,7 @@ Esse script em python não se trata da correção atmosférica em si. Tratá-se 
 
 Nesse repositório encontra-se o script '"batch_sentinel2.py"' e o executável do mesmo ".exe". Fiz esse executável para quem não possui o python instalado e/ou não tem familiridade no terminal.
 
-Recomendo assistir o vídeo que postei no YouTube para caso tenha alguma dúvida: [vídeo]()
+Recomendo assistir o vídeo que postei no YouTube para caso tenha alguma dúvida: [ainda não postei xp]()
 
 ## Uso
 
